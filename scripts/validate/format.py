@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+import utils.session
 import re
 import sys
 from string import punctuation
